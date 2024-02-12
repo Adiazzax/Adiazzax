@@ -4,9 +4,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 👨🏻 &emsp;  Hi, I'm Adi, a dedicated Back-End Developer with a strong passion for Golang. <br/><br/>
+ 👨🏻 &emsp;  Hi, I'm Adi, a dedicated Back-End Developer with a strong passion for AI and Cybersecurity. <br/><br/>
  💼 &emsp;  Currently pursuing my education at Adhirajasa Reswara Sanjaya University, I am committed to honing my skills and knowledge in the dynamic field of back-end development.<br/><br/>
- 🚀 &emsp;  My primary focus is on leveraging the power of Golang to architect robust and scalable back-end solutions. I am enthusiastic about contributing to innovative projects that push the boundaries of technology.<br/><br/>
+ 🚀 &emsp;  I am enthusiastic about contributing to innovative projects that push the boundaries of technology.<br/><br/>
  📧 &emsp;  Feel free to connect with me via email at adi.karawinata.s@gmail.com.
 
 </p>
