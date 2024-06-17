@@ -1,22 +1,21 @@
 <!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- 👨🏻 &emsp;  Hi, I'm Adi, a dedicated Back-End Developer with a strong passion for AI and Cybersecurity. <br/><br/>
- 🚀 &emsp;  I am enthusiastic about contributing to innovative projects that push the boundaries of technology.<br/><br/>
- 📧 &emsp;  Feel free to connect with me via email at adi.karawinata.s@gmail.com.
+# About me
 
+<p>
+  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+
+  👨🏻‍💻 &emsp; Hi, I'm Adi, an AI Developer with a strong focus on AI. <br/><br/>
+  🚀 &emsp; I am passionate about pursuing a career as an AI Engineer and contributing to cutting-edge projects in the field. <br/><br/>
+  📧 &emsp; Feel free to connect with me via email at adi.karawinata.s@gmail.com.
 </p>
 
 <br/>
 <br/>
 <br/>
 <p align="center">
- <a href="https://www.linkedin.com/in/adi-karawinata-satyanegara-8288a6253" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
+  <a href="https://www.linkedin.com/in/adi-karawinata-satyanegara-8288a6253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
 </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
